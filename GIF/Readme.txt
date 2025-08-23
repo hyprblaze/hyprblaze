@@ -11,9 +11,18 @@ If you are the owner of any content and would like it removed, please feel free 
 
 ## References / Sources
 - **PacmanGIF** – [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)  
-- **HelloWorldGIF** – [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)  
-- **WorkingGIF** – [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)  
+![](https://github.com/hyprblaze/hyprblaze/blob/main/GIF/PacmanGIF.gif)
 
----
+
+- **HelloWorldGIF** – [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)  
+![](https://github.com/hyprblaze/hyprblaze/blob/main/GIF/HelloWorldGIF.gif)
+
+
+- **WorkingGIF** – [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)  
+![](https://github.com/hyprblaze/hyprblaze/blob/main/GIF/WorkingGIF.gif)
+
+
+
+
 
 🙏 Thanks to the original creators for making these available!
