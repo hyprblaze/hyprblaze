@@ -1,4 +1,6 @@
-![](https://github.com/hyprblaze/hyprblaze/blob/main/GIF/HelloWorldGIF.gif)
+<p align="center">
+  <img src="https://github.com/hyprblaze/hyprblaze/blob/main/GIF/HelloWorldGIF.gif" width="100%" height="250"/>
+</p>
 
 # 💫 About Me:
 👋 Hi, I'm a 23-year-old Network Engineer blending infrastructure with automation.<br>🎮 Gamer | 💻 Web Developer | 🚗 Automotive Enthusiast<br>🎓 BCA Grad | MCA (Cybersecurity) – Ongoing<br>🛠️ Passionate about scripting, securing networks, and building smarter systems.<br>🌐 Exploring the intersection of code, connectivity, and creativity.
