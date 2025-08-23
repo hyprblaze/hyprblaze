@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hyprblaze/hyprblaze/blob/main/GIF/HelloWorldGIF.gif" width="100%" height="250"/>
+  <img src="https://github.com/hyprblaze/hyprblaze/blob/main/GIF/HelloWorldGIF.gif" width="900"/>
 </p>
 
 # 💫 About Me:
