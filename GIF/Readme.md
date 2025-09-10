@@ -24,5 +24,4 @@ If you are the owner of any content and would like it removed, please feel free 
 
 
 
-
-🙏 Thanks to the original creators for making these available!
+Thanks to the original creators for making these available!
