@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-👋 Hi, I'm a 23-year-old Network Engineer blending infrastructure with automation.<br>🎮 Gamer | 💻 Tech Explorer | 🚗 Automotive Enthusiast<br>🎓 BCA Grad | MCA (Cybersecurity) – Ongoing<br>🛠️ Passionate about scripting, securing networks, and building smarter systems.<br>🌐 Exploring the intersection of code, connectivity, and creativity.
+👋 Hi, I'm a Network Engineer blending infrastructure with automation.<br>🎮 Gamer | 💻 Tech Explorer | 🚗 Automotive Enthusiast<br>🎓 BCA Grad | MCA (Cybersecurity) – Ongoing<br>🛠️ Passionate about scripting, securing networks, and building smarter systems.<br>🌐 Exploring the intersection of code, connectivity, and creativity.
 
 <!-- Contribution calandar pacman -->
 
